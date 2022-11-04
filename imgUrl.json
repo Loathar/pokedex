@@ -1,11 +1,14 @@
 [
   {
     "eevee": {
-      "Starter": "https://www.clipartkey.com/mpngs/m/62-629943_eevee-transparent-background-pokemon-png.png",
-      "Jolteon": "https://vignette.wikia.nocookie.net/pokemony/images/1/1e/Jolteon.png/revision/latest?cb=20150824121333&path-prefix=pl",
-      "Flareon": "https://images.wikidexcdn.net/mwuploads/wikidex/1/17/latest/20090721162204/Flareon.png",
-      "Umbreon": "https://www.pngfind.com/pngs/m/690-6908528_pokemon-umbreon-hd-png-download.png",
-      "Leafeon": "https://www.pngfind.com/pngs/m/80-800988_leafeon-global-link-artwork-pokemon-leafeon-hd-png.png"
+      "starter": "https://www.clipartkey.com/mpngs/m/62-629943_eevee-transparent-background-pokemon-png.png",
+      "jolteon": "https://vignette.wikia.nocookie.net/pokemony/images/1/1e/Jolteon.png/revision/latest?cb=20150824121333&path-prefix=pl",
+      "flareon": "https://images.wikidexcdn.net/mwuploads/wikidex/1/17/latest/20090721162204/Flareon.png",
+      "umbreon": "https://www.pngfind.com/pngs/m/690-6908528_pokemon-umbreon-hd-png-download.png",
+      "leafeon": "https://www.pngfind.com/pngs/m/80-800988_leafeon-global-link-artwork-pokemon-leafeon-hd-png.png",
+      "sylveon": "https://vignette.wikia.nocookie.net/leonhartimvu/images/e/e6/Shiny_Sylveon.png/revision/latest?cb=20150328013640",
+      "glaceon": "https://vignette.wikia.nocookie.net/your-guide-to-pokemon/images/7/7d/1200px-471Glaceon.png/revision/latest?cb=20181202031322",
+      "espeon": "https://toppng.com/public/uploads/preview/espeon-espeon-11563225887ywdungwsss.png"
     }
   }
 ]
