@@ -1,3 +1,9 @@
 export default function HomePage() {
-  return <h1 className="text-red-500">Hello!</h1>;
+  return (
+    <>
+      <div className="bg-gray-100">
+        <h1 className="text-red-500">Hello Pokedex!</h1>
+      </div>
+    </>
+  );
 }

@@ -1,0 +1,1 @@
+Use classes for pokemon!
